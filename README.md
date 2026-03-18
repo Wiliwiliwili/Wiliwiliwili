@@ -1,7 +1,3 @@
-This description is designed to bridge your background as an **Industrial Engineer** and your **MSc in Data Science**. It positions you not just as a coder, but as a strategic architect who understands how digital transformation impacts the bottom line.
-
----
-
 ## 👋 Strategic Digitalization & Data Architecture
 
 I am an **Industrial Engineer and Data Scientist** dedicated to building the bridge between legacy physical processes and modern digital ecosystems. With a Master of Science in Data Science, my approach to technology is rooted in **Operational Excellence**: I don't just build pipelines; I design strategic frameworks that turn data into a competitive asset.
